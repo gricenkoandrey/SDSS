@@ -1,0 +1,7 @@
+{
+  "name": "NutriScan AI",
+  "description": "Полный анализ калорийности и состава блюд по фото.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
